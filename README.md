@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hi!](emoji.png)
+![Hi!](giphy.gif)
 
 <!--
 **MBaktygul/MBaktygul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
