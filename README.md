@@ -1,6 +1,6 @@
 ![Hi!](hi.png)
 
-**Hello people**
+<span style="font-family:Quicksand-VariableFont_wght.ttf">I´m currently learning **`HTML`** **`CSS`** and on the way to learning **`Javascript`** at [3pc](https://3pc.de/)</span>
 
 <!--
 **MBaktygul/MBaktygul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
