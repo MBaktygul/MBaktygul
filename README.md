@@ -1,6 +1,6 @@
 ![Hi!](hi.png)
 
-**Hello**
+**Hello people**
 
 <!--
 **MBaktygul/MBaktygul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
