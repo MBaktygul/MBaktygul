@@ -1,4 +1,4 @@
-### Hi there, it´s Baktygul 👋
+### Hi there 👋
 
 ![Hi!](hi.png)
 
